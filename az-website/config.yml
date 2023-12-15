@@ -1,4 +1,4 @@
-baseURL: "http://alessandro-zanella.github.io/" # Base URL for your site
+baseURL: "https://alessandro-zanella.github.io/" # Base URL for your site
 languageCode: "en-us" # Language code
 title: "Alessandro Zanella" # Title of your site
 theme: "hugo-PaperMod"
@@ -20,6 +20,8 @@ menu:
       weight: 30
 
 params:
+  assets:
+    disableFingerprinting: true
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
