@@ -1,0 +1,48 @@
+baseURL: "http://alessandro-zanella.github.io/" # Base URL for your site
+languageCode: "en-us" # Language code
+title: "Alessandro Zanella" # Title of your site
+theme: "hugo-PaperMod"
+
+# Optional Parameters
+defaultContentLanguage: "en" # Default content language
+paginate: 10 # Number of posts per page
+disqusShortname: "your-disqus-shortname" # Disqus shortname for comments
+
+menu:
+  main:
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+    - identifier: youtube
+      name: My Youtube
+      url: https://www.youtube.com/@alessandrozanella
+      weight: 30
+
+params:
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content", "tags", "category"]
+  profileMode:
+    enabled: true
+    title: "Online Salsa Dance Wiki" # optional default will be site title
+    subtitle: "by Alessandro Zanella"
+    # imageUrl, imageTitle, imageWidth, and imageHeight are commented out
+    buttons:
+      - name: Latest Posts
+        url: "/archive"
+      - name: Youtube
+        url: "https://www.youtube.com/channel/UCQRjOoANHHWaTXgIvHdE2uQ"
+      - name: Search
+        url: "/search"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
