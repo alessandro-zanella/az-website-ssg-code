@@ -1,0 +1,4 @@
+[submodule "az-website/public"]
+	path = az-website/public
+	url = https://github.com/alessandro-zanella/alessandro-zanella.github.io.git
+	branch = main
