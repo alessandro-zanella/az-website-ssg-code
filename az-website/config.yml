@@ -20,6 +20,7 @@ menu:
       weight: 30
 
 params:
+  defaultTheme: auto
   assets:
     disableFingerprinting: true
   fuseOpts:
@@ -32,16 +33,24 @@ params:
     keys: ["title", "permalink", "summary", "content", "tags", "category"]
   profileMode:
     enabled: true
-    title: "Online Salsa Dance Wiki" # optional default will be site title
-    subtitle: "by Alessandro Zanella"
-    # imageUrl, imageTitle, imageWidth, and imageHeight are commented out
+    title: "Howdy!" # optional default will be site title
+    subtitle: "Select a project to proceed with:"
+    imageUrl: "/img/alessandro-profile-p.jpg"
+    imageTitle: "Alessandro Zanella dancing"
+    imageWidth: 200
+    imageHeight: 200
     buttons:
-      - name: Latest Posts
-        url: "/archive"
+      - name: Dance Wiki
+        url: "/dancewiki"
       - name: Youtube
         url: "https://www.youtube.com/channel/UCQRjOoANHHWaTXgIvHdE2uQ"
       - name: Search
         url: "/search"
+  socialIcons: # optional
+    - name: "Facebook"
+      url: "<link>"
+    - name: "Youtube"
+      url: "<link2>"
 
 outputs:
   home:
