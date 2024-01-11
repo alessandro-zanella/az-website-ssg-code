@@ -6,18 +6,14 @@ author: "Alessandro Zanella"
 tags: ["on2"]
 ---
 
-# Musicality for Dancers: Understanding the Timing Basics
-
-Instructor: 14 RT Agha
-
-## Introduction
+## Introduction:
 
 This lesson introduces the fundamental concept of 'Clave' in salsa music, a musical structure that is essential for building melodies and rhythm patterns. Understanding Clave is crucial for dancers to create and perform choreographies effectively.
 
 ## Understanding Musical Bars in Salsa
 
 - **Definition of a Musical Bar**: In salsa, a musical bar consists of four beats.
-- **Subdivision of Beats**: These four beats can be subdivided further. For example, counting can be done as "1 & 2 & 3 & 4 &".
+- **Subdivision of Beats**: These four beats can be subdivided further. For example, counting can be done as "1 & 2 & 3 & 4 &" or "1 2 3 4 5 6 7 8".
 
 ## The Concept of Clave
 
@@ -28,11 +24,11 @@ This lesson introduces the fundamental concept of 'Clave' in salsa music, a musi
 ## The 3-2 and 2-3 Clave Patterns
 
 - **3-2 Clave Pattern**:
-  - The 'Question' part (three strokes) falls on beats 5, the offbeat between 6 and 7 (6.5), and beat 8.
-  - The 'Answer' part (two strokes) is on beats 1 and 3.
+  - The 'Question' part (three strokes) falls on beats 1, the offbeat between 2 and 3 (2.5), and beat 4.
+  - The 'Answer' part (two strokes) is on beats 6 and 7.
 - **2-3 Clave Pattern**:
   - This is a reverse of the 3-2 pattern.
-  - The 'Answer' part comes first, with strokes on beats 2 and 4.
+  - The 'Answer' part comes first, with strokes on beats 2 and 3.
   - The 'Question' part follows on beats 5, 6.5, and 8.
 
 ## Practical Tips for Dancers

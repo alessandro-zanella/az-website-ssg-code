@@ -7,8 +7,16 @@ ShowReadingTime: true
 ShowShareButtons: true
 ---
 
-# Recommended Learning Resources for Salsa
+### Recommended Learning Resources for Salsa - English
 
-For Musicality and understanding Salsa Music
+Videos For Musicality and understanding Salsa Music
 
 [Joaquin Arteaga Percusionista](https://www.youtube.com/@joacopercusion)
+
+---
+
+### Recommended Learning Resources for Salsa - Romanian
+
+Online Course
+
+[Sonrisa DC Online Plattform](https://sonrisaonline.com/)
