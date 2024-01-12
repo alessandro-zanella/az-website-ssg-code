@@ -66,3 +66,9 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+.cover-image-max-height {
+    max-height: 200px; /* Adjust this value as needed */
+    width: auto; /* Maintain the aspect ratio */
+    object-fit: cover; /* Cover the area of the element without stretching */
+}
